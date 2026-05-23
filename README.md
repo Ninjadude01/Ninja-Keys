@@ -9,7 +9,7 @@ My project is two custom keycaps, with a ninja theme. One keycap features 3 smal
 ![pic3](Pictures_of_Project/IMG_2133.jpg)
 ![pic2](Pictures_of_Project/IMG_2132.jpg)
 
-Here are pictures:
+Here are pictures of the design:
 
 ![pic1](Pictures_of_Project/Screenshot%202026-03-31%20132401.png)
 ![pic2](Pictures_of_Project/Screenshot%202026-03-31%20132412.png)
